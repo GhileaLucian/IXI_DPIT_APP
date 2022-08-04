@@ -3,24 +3,24 @@
   "short_name": "Ixi",
   "icons": [
     {
-      "src": "./content/images/jhipster_family_member_2_head-192.png",
+      "src": "/295920692_104643675676139_1570535418419396616_n.jpg",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/jpg"
     },
     {
-      "src": "./content/images/jhipster_family_member_2_head-256.png",
+      "src": "295920692_104643675676139_1570535418419396616_n.jpg",
       "sizes": "256x256",
-      "type": "image/png"
+      "type": "image/jpg"
     },
     {
-      "src": "./content/images/jhipster_family_member_2_head-384.png",
+      "src": "295920692_104643675676139_1570535418419396616_n.jpg",
       "sizes": "384x384",
-      "type": "image/png"
+      "type": "image/jpg"
     },
     {
-      "src": "./content/images/jhipster_family_member_2_head-512.png",
+      "src": "./content/images/295920692_104643675676139_1570535418419396616_n.jpg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpg"
     }
   ],
   "theme_color": "#000000",

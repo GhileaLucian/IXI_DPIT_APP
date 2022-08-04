@@ -97,7 +97,7 @@ module.exports = async options =>
       ),
       new WebpackNotifierPlugin({
         title: 'IXI',
-        contentImage: path.join(__dirname, 'logo-jhipster.png'),
+        contentImage: path.join(__dirname, '295920692_104643675676139_1570535418419396616_n.jpg'),
       }),
     ].filter(Boolean),
   });
